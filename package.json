@@ -1,0 +1,25 @@
+{
+  "name": "api",
+  "version": "0.0.1",
+  "description": "Talk with Notion",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fj-Cash/Notion-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fj-Cash/Notion-react/issues"
+  },
+  "homepage": "https://github.com/Fj-Cash/Notion-react#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.12.2",
+    "axios": "^0.21.1",
+    "@notionhq/client": "^2.2.5",
+    "fs": "^0.0.1-security"
+  }
+}
